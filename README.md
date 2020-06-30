@@ -1,4 +1,4 @@
-# THP 
+# The Hacking Project Bootcamp 
 **S1**
 
 ```
