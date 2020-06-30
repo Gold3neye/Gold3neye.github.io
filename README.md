@@ -1,5 +1,5 @@
 # The Hacking Project Bootcamp 
-**<-- S1 -->**
+**<--\ S1 /-->**
 
 ```
 Page d'accueil Google
