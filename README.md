@@ -1,2 +1,2 @@
 # THP
-Page d'acceuil Google
+Page d'accueil Google
