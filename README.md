@@ -2,5 +2,5 @@
 * S1
 
 ```
-**Page d'accueil Google**
+Page d'accueil Google
 ```
